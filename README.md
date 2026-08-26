@@ -14,5 +14,16 @@ The dashboard focuses on:
 - Analyzing trends over time
 - Understanding geographic sales performance
 - Identifying high-performing products and markets
-- Providing interactive filtering for deeper analysis. 
+- Providing interactive filtering for deeper analysis
+
+## Tools Used
+### Microsoft Power BI
+
+### Data Visualization
+- Column chart: Profit by Country
+- Bar chart: Units sold by Product
+- Line chart: Sales over Time
+- Choropleth map: Sales by Country
+- Slicers/Filters: Country and Product filtering 
+
 
