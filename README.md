@@ -4,6 +4,9 @@ The Financial Trends & Monitoring Dashboard is an interactive business intellige
 
 ## Dashboard Preview 
 
+<img width="1443" height="809" alt="image" src="https://github.com/user-attachments/assets/161cc699-db6e-436b-9239-4cc192548149" />
+
+
 ## Project Objective
 The main objective of this project is to transform financial sales data into an interactive and easy-to-understand dashboard that can support data-driven and financial decision-making.
 
