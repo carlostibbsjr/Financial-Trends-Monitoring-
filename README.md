@@ -1,6 +1,6 @@
 # Financial Trends & Monitoring Dashboard
 ## Introduction
-The Financial Trends & Monitoring Dashboard is an interactive business intelligence dashboard designed to analyze financial performance across different countries, products and time periods. Additionally, the dashboard provides a clear overview of profit, sales, and units sold, helping users identify high-performing markets, popular products, and changes in sale performance over time. 
+The Financial Trends & Monitoring Dashboard is an interactive business intelligence dashboard designed to analyze financial performance across different countries, products and time periods. Additionally, this dashboard provides a clear overview of profit, sales, and units sold, helping users identify high-performing markets, popular products, and changes in sale performance over time. 
 
 ## Dashboard Preview 
 
