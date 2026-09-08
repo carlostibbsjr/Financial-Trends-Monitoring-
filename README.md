@@ -27,6 +27,20 @@ The dashboard focuses on:
 - Bar chart: Units sold by Product
 - Line chart: Sales over Time
 - Choropleth map: Sales by Country
-- Slicers/Filters: Country and Product filtering 
+- Slicers/Filters: Country and Product filtering
+  
+
+## Key Insights
+1. France leads in profitability
+   - France has the highest profit at roughly $3.8M
+   - Germany and Canada ranks just behind, at around $3.6M-3.7M
+   - The United States and Mexico trail behind, at $3.0M and $2.9M
+  - This indicates strong profitability across the top three countries, with a clear gap compared with the United States and Mexico.
+
+2. Paseo dominates in product volume
+   - Paseo is the best-selling product, with around 340K units
+   - VTT and Velo follow as a distant second and third, with roughly 165-170K units
+   - Amarilla and Montana are slightly lower, around 150-160K units
+  - Paseo therefore generates roughly twice the unit volume of the next-highest products.
 
 
