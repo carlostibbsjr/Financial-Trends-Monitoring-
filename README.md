@@ -46,6 +46,21 @@ The dashboard focuses on:
 3. Sales are very volatile over time
    - Sales vary significantly, with no consistent upward trend.
    - The strongest sales periods are October 2014 at approximately $12.4M and November 2014 at approximately $12.0M.
-   - 
+   - Earlier peaks occurred in October 2013 at approximately $9.3M and June 2014 at approximately $9.5M.
+  - This indicates that several periods decline to approximately $5-6M, highlighting substantial month-to-month variability.
+
+4. Recent sales performance shows strong momentum
+   - Despite the volatility, this dashboard concludes with two particularly strong months in late 2014.
+   - The increase from approximately $5.4M to $12.0M at the end of the period is noteworthy.
+  - This particular surge may reflect seasonality, a successful sales campaign, or increased demand, which warrants further investigation.
+
+5. Sales are concentrated in key geographic markets
+   - This map shows significant sales activity across North America, with the United States and Canada representing major markets.
+    - France is also a key market, consistently keeping its position as the most profitable country.
+
+
+
+## Conclusion
+The Financial Trends & Monitoring provides a clear view of the company's financial and sales performance across markets, products, and time periods. Overall, the business appears healthy but uneven, with France leading in Profitability, Paseo dominating product sales and volume, and combined sales reaching their highest levels in late 2014 despite significant volatility. Key opportunities include understanding the specific drivers behind the recent sales surge, improving performance in weaker markets such as Mexico and the United States, and using historical trends to assist forecasting and strategic growth planning. 
 
 
